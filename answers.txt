@@ -1,0 +1,55 @@
+Daan Krol (s3142221)
+Niels Rocholl (s3501108)
+Timen van Gelderen (s3427781)
+Julian Bruinsma (s3215601)
+
+1	
+2	molecular nanotechnology	organic chemistry
+3	
+4	
+5	
+6	
+7	Robert Brown
+8	Syracuse
+9	No
+10	
+11	philosopher of language	university teacher	logician	analytic philosopher	philosopher	mathematician
+12	
+13	Alfred Nobel
+14	anatomist	astronomer	civil engineer	physiologist	chemist	painter	composer	inventor	polymath	physicist	philosopher	zoologist	diplomat	sculptor	caricaturist	botanist	poet	engineer	architect	musician	mathematician
+15	professor
+16	4
+17	
+18	
+19	pascal
+20	3
+21	0.0652
+22	Q5610496
+23	
+24	
+25	
+26	No
+27	
+28	fever	vomiting	fatigue	headache	bradycardia	cyanosis
+29	Copernican heliocentrism	Commentariolus	De revolutionibus orbium coelestium
+30	
+31	
+32	Paul G. Comba
+33	Au
+34	
+35	1846-09-23
+36	0
+37	
+38	
+39	Tim Berners-Lee
+40	
+41	0
+42	
+43	1987-01-01
+44	
+45	
+46	declarative programming
+47	Calvinism
+48	
+49	
+50	New Haven
